@@ -1,0 +1,6 @@
+schema = 1
+id = "board-copy-card"
+name = "Board Copy Card"
+version = "0.1.0"
+description = "Copy the selected board card, with its child lines, as the Markdown it is written in."
+window = "window.luau"

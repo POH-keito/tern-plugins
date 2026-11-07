@@ -1,0 +1,5 @@
+[
+  { "alias": "tsdk", "title": "Tern SDK", "url": "https://github.com/stencil-hq/tern-sdk" },
+  { "alias": "omp", "title": "oh-my-pi", "url": "https://github.com/can1357/oh-my-pi" },
+  { "alias": "ovnfs", "title": "ovnfs", "url": "https://github.com/stencil-hq/ovnfs" }
+]

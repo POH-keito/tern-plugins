@@ -1,0 +1,6 @@
+schema = 1
+id = "keymap-dump"
+name = "Keymap Dump"
+version = "0.1.0"
+description = "Write Tern's default key bindings for this OS to keymap-defaults/<os>.toml."
+window = "window.luau"

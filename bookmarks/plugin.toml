@@ -1,0 +1,6 @@
+schema = 1
+id = "bookmarks"
+name = "Bookmarks"
+version = "0.1.0"
+description = "Palette commands that open your frequent URLs in Tern's built-in browser."
+window = "window.luau"
